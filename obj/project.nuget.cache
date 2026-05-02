@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "/IhMLozBVLQ=",
+  "success": true,
+  "projectFilePath": "/Users/omkaz/Developer/csharp/mi-primer-csharp/mi-primer-csharp.csproj",
+  "expectedPackageFiles": [
+    "/Users/omkaz/.nuget/packages/microsoft.aspnetcore.openapi/10.0.7/microsoft.aspnetcore.openapi.10.0.7.nupkg.sha512",
+    "/Users/omkaz/.nuget/packages/microsoft.openapi/2.0.0/microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
